@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OpenArena
+Comment=First person shooter
+Icon=ws.openarena.OpenArena
+Exec=quake3e.x64 +set fs_basegame baseoa +set protocol 71-compat  +set com_protocol 72 +set cl_voip 1
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;
+PrefersNonDefaultGPU=true
